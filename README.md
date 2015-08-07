@@ -6,3 +6,4 @@ implementing the A* search algorithm.
 #Instruction
 User must type a starting location in the midwest and an ending location.
 Then the algorithm takes care of the rest.
+User input is case sensitive: for example it will only read, "Springfield, Illinois" but not sprintfield, illinois or any other version.
