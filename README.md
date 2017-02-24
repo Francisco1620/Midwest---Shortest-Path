@@ -9,4 +9,4 @@ The A* Search Algorithm is an Artificial Intelligence algorithm that is used to 
 #Instruction
 User must type a starting location in the midwest and an ending location.
 Then the algorithm takes care of the rest.
-User input is case sensitive: for example it will only read, "Springfield, Illinois" but not "springfield, illinois" or any other version.
+User input is case sensitive: for example it will only read, "Springfield, Illinois" but not "springfield, illinois" or any other variation.
